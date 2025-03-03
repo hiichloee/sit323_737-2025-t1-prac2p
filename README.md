@@ -188,12 +188,6 @@ git remote add origin https://github.com/hiichloee/sit323_737-2024-t1-prac2p.git
 git push origin main
 ```
 
-If your branch is `master`, use:
-
-```sh
-git push origin master
-```
-
 ---
 
 ## **7. Final Submission**
