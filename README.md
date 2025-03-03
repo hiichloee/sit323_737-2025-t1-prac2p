@@ -188,6 +188,11 @@ git remote add origin https://github.com/hiichloee/sit323_737-2024-t1-prac2p.git
 git push origin main
 ```
 
+If your branch is `master`, use:
+
+```sh
+git push origin master
+```
 
 ---
 
@@ -196,8 +201,6 @@ git push origin main
 After pushing the code to GitHub, submit your repository link:
 
 ```
-https://github.com/hiichloee/sit323_737-2024-t1-prac2p
+https://github.com/your-username/sit323_737-2024-t1-prac2p
 ```
-
-
 
